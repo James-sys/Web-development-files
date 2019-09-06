@@ -1,3 +1,33 @@
-.test{
-    color: blue;
+body{
+    margin: 0px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: #CBCCCE;
+}
+
+
+.navbar .page-name{
+    color: white;
+    background-color: #7f8490;
+    margin: 0px;
+}
+
+.navbar .navbtns{
+    display: flex;
+    align-items: center;
+    background-color: #7c87b8;
+    
+
+}
+
+.navbar .navbtns .navbtn{
+
+
+}
+
+.navbar .navbtns .navbtn a{
+    font-size: 30px;
 }
