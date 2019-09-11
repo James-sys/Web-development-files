@@ -1,4 +1,13 @@
+.hobbieimgs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.hobbieimgs{
+    margin-left: 5px;
+}
+
 .hobbieimg img{
-    width: 400px;
+    width: 100%;
     height: 400px;
 }
